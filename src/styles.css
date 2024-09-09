@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+.class1
+{
+   background-color: rgb(214, 146, 62);
+   width: 700px;
+   height:450px;
+   margin: 20px;
+   float: left;
+
+}
+
+.class2
+{
+   background-color: rgb(109, 211, 61);
+   width: 550px;
+   height:160px;
+   margin: 20px;
+   float: left;
+}
+
+.class3
+{
+   background-color:white;
+   width: 230px;
+   height:60px;
+   margin: 20px;
+   float: left;
+}
+
+
